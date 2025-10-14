@@ -1,3 +1,9 @@
 pacotes instalados
 
 npm i json-server@1.0.0-alpha.21
+
+
+npm run server - api
+npm run build - buildar o projeot
+npm run dev - rodar web
+
